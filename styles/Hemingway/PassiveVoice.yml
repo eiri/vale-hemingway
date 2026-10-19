@@ -1,0 +1,3 @@
+extends: Std.Grammar.PassiveVoice
+message: "Passive voice: '%s'. Consider rewriting in active voice."
+level: warning

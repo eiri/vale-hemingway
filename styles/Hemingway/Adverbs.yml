@@ -1,0 +1,5 @@
+extends: sequence
+message: "Adverb: '%s'. Consider a stronger verb or removing the modifier."
+level: suggestion
+tokens:
+  - tag: RB

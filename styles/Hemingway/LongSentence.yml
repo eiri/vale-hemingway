@@ -1,0 +1,4 @@
+extends: Std.Readability.SentenceLength
+message: "Hard-to-read sentence: %d words. Consider splitting or simplifying it."
+level: warning
+max: 20

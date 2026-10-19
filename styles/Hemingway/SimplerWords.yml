@@ -1,0 +1,45 @@
+extends: substitution
+message: "Consider '%s' instead of '%s'."
+level: suggestion
+ignorecase: true
+action:
+  name: replace
+swap:
+  'accordingly': so
+  'additional': more
+  'approximately': about
+  'ascertain': find out
+  'attempt': try
+  'commence': start
+  'concerning': about
+  'consequently': so
+  'demonstrate': show
+  'determine': find
+  'discontinue': stop
+  'endeavor': try
+  'facilitate': help
+  'finalize': finish
+  'frequently': often
+  'implement': carry out
+  'in order to': to
+  'indicate': show
+  'individuals': people
+  'initiate': start
+  'magnitude': size
+  'methodology': method
+  'modify': change
+  'necessitate': require
+  'numerous': many
+  'obtain': get
+  'occur': happen
+  'prior to': before
+  'purchase': buy
+  'regarding': about
+  'requirement': need
+  'subsequent to': after
+  'sufficient': enough
+  'terminate': end
+  'therefore': so
+  'utilize': use
+  'utilization': use
+  'with regard to': about
